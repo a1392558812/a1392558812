@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @a1392558812
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Awen
+-      看梅绝句
+-      宋·陆游
+- 👀 老子舞时不须拍，
+- 🌱 梅花乱插乌巾香。
+- 💞️ 尊前作剧莫相笑，
+- 📫 我死诸君思此生。
 
-<!---
-a1392558812/a1392558812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
